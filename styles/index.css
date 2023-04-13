@@ -626,6 +626,12 @@ hr {
     /* margin-left: 120px; */
 }
 
+
+a{
+    color: #000000;
+    text-decoration: none;
+}
+
 /* content gallery styling ends */
 
 
@@ -678,6 +684,11 @@ hr {
     top:195rem;
     font-family: 'Iowan Old Style';
     font-style: normal;
+    /* cursor:auto; */
+}
+
+.row .btn2{
+    cursor: auto;
 }
 
 
@@ -695,7 +706,9 @@ hr {
 
 }
 
-
+.row .btn3{
+    cursor: auto;
+}
 
 .btn4{
     position:absolute;
@@ -710,7 +723,9 @@ hr {
     /* margin-left: 350px; */
 
 }
-
+.row .btn4{
+    cursor: auto;
+}
 
 .btn5{
     position:absolute;
@@ -725,7 +740,9 @@ hr {
     /* margin-left: 120px; */
 
 }
-
+.row .btn5{
+    cursor: auto;
+}
 
 .btn6{
     position:absolute;
@@ -741,6 +758,10 @@ hr {
 
 }
 
+.row .btn6{
+    cursor: auto;
+}
+
 
 .btn7{
     position:absolute;
@@ -753,6 +774,9 @@ hr {
     font-family: 'Iowan Old Style';
     font-style: normal;
 
+}
+.row .btn7{
+    cursor: auto;
 }
 
 
@@ -769,6 +793,9 @@ hr {
     /* margin-left: 220px; */
 
 }
+.row .btn8{
+    cursor: auto;
+}
 
 
 .btn9{
@@ -783,6 +810,9 @@ hr {
     font-style: normal;
     /* margin-left: 350px; */
 
+}
+.row .btn9{
+    cursor: auto;
 }
 
 
